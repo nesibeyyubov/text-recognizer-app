@@ -11,8 +11,8 @@
      
   </tr>
   <tr>
-    <td valign="top"><img src="welcome.png"></td>
-    <td valign="top"><img src="auth.png"></td>
+    <td valign="top"><img src="first.png"></td>
+    <td valign="top"><img src="second.png"></td>
     
   </tr>
   
@@ -22,8 +22,8 @@
      
   </tr>
   <tr>
-    <td valign="top"><img src="welcome.png"></td>
-    <td valign="top"><img src="auth.png"></td>
+    <td valign="top"><img src="third.png"></td>
+    <td valign="top"><img src="final.png"></td>
     
   </tr>
  
